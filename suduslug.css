@@ -1,0 +1,195 @@
+.sred{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.head{
+	width: 100%;
+	height: 70px;
+	margin-top: auto;
+	display: flex;
+	-webkit-box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+	-moz-box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+	box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+}
+.logo{
+	padding-top: 15px;
+}
+.logo a{
+	text-decoration: none;
+	color:black;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+}
+.nav{
+	padding-left: 70px;
+	padding-top: 20px;
+}
+.nav a {
+	text-decoration: none;
+	color:#666666;
+	font-family: Arial;
+	font-size: 20px;
+}
+.zagolov{
+	font-size: 50px;
+	font-family: Arial;
+	font-weight: bold;
+	width: 100%;
+  	margin: auto;
+  	text-align: center;
+}
+.podzagolov{
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+	color:#666666;
+}
+.text1{
+  	padding-top: 50px;
+}
+.text2{
+	padding-top: 25px;
+}
+.knopka1{
+	padding-top: 70px;
+    margin-left: 390px;
+}
+.btn1{
+	text-decoration: none;
+	width: 150px;
+	height: 70px;
+	background-color: Crimson;
+	border-radius: 12px;
+	padding: 20px;
+	color: white;
+	font-weight: 20px;
+	font-family: Arial;
+	transition-duration: 0.5s;
+}
+.btn1:hover{
+	color: white;
+	background-color: FireBrick;
+}
+.knopka2{
+	margin-left: 650px;
+	margin-top: -20px;
+}
+.btn2{
+	text-decoration: none;
+	width: 150px;
+	height: 70px;
+	background-color: white;
+	border-radius: 12px;
+	padding: 20px;
+	color: Crimson;
+	font-weight: 20px;
+	font-family: Arial;
+	transition-duration: 0.5s;
+	border: 1px solid #666666;
+}
+.btn2:hover{
+	-webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+	box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+.phot{
+	height: 800px;
+	background-image:url(https://nashedelopravoe.ru/wp-content/uploads/2020/03/222-1-4.jpg) ;
+	position: relative;
+	border-radius: 15px;
+	margin-top: 80px;
+}
+.text3{
+	padding-top: 150px;
+}
+.text4{
+	padding-top: 25px;
+}
+.knopka3{
+	padding-top: 50px;
+	padding-left: 500px;
+}
+.btn3{
+	text-decoration: none;
+	width: 150px;
+	height: 70px;
+	background-color: white;
+	border-radius: 12px;
+	padding: 20px;
+	color: Crimson;
+	font-weight: 20px;
+	font-family: Arial;
+	transition-duration: 0.5s;
+	border: 1px solid #666666;
+}
+.btn3:hover{
+	color: white;
+	background-color: Crimson;
+}
+.block{
+	margin-top: 100px;
+	width: 100%;
+	height: 700px;
+	background-color: Gainsboro;
+	display: flex;
+}
+.text5{
+	padding-top: 150px;
+}
+.text6{
+	padding-top: 25px;
+}
+.block1{
+	width: 350px;
+	height: 200px;
+	border-radius: 15px;
+	background-color: white;
+	margin-top: 75px;
+	margin-left: 50px;
+}
+.block2{
+	width: 350px;
+	height: 200px;
+	border-radius: 15px;
+	background-color: white;
+	margin-top: -200px;
+	margin-left: 420px;
+}
+.block3{
+	width: 350px;
+	height: 200px;
+	border-radius: 15px;
+	background-color: white;
+	margin-left: 790px;
+	margin-top: -200px;
+}
+.textblock1{
+	padding-top: 30px;
+	padding-left: 15px;
+	padding-right: 35px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+}
+.textblock2{
+	padding-top: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 20px;
+	color:Crimson;
+	font-family: Arial;
+}
+.text7{
+	padding-top: 150px;
+}
+.text8{
+	padding-top: 25px;
+}
+.per{
+	width: 350px;
+	height: 250px;
+	border-radius: 15px;
+	background-image: url(https://avatars.mds.yandex.net/get-altay/4335161/2a0000017889888220d9f6865c413b2ab22c/XXL);
+}
